@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://picsum.photos https://fastly.picsum.photos; connect-src 'self' https://jsonplaceholder.typicode.com https://exp5-webtechnolgy.onrender.com/; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://picsum.photos https://fastly.picsum.photos; connect-src 'self' https://jsonplaceholder.typicode.com https://exp5-webtechnolgy.onrender.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
